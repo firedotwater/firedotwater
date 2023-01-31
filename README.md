@@ -1,9 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>
-👯 I’m looking to collaborate on<br>
-🤝 I’m looking for help with<br>
-🌱 I’m currently learning<br>
-💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on a Python chatbot for the Twitch platform<br>
+👯 I’m looking to collaborate on LinkedIn to increase my network<br>
+🤝 I’m looking for help with so many different on going projects - I need to split myself up to deal with everything<br>
+🌱 I’m currently learning deep machine learning with AI<br>
+💬 Ask me about what happened on April 1961<br>
+⚡ Fun fact I don't like cheese
 
 
 # 💻 Tech Stack:
